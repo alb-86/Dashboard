@@ -13,7 +13,7 @@ import Todo from './components/TodoList';
 import { TicketProvider } from './context/TicketContext';
 
 const App : React.FC = () => {
-  return (
+  return ( 
     <AuthProvider>
       <Router>
       <Box component="main" sx={{ flexGrow: 1 }}>
