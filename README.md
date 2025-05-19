@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-# Dashboard
 Dashboard Task
-=======
+
 <!-- Staff IT Dashboard -->
 
 A responsive internal dashboard built with React, Typescript, and Material UI for managing IT requests, tickets, staff directories, and task lists. Designed for seamless use across desktop and mobile devices.
