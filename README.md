@@ -94,6 +94,9 @@ A responsive internal dashboard built with React, Typescript, and Material UI fo
 
 - Mobile App Version:
   Develop a mobile app version using React Native or similar tech for on-the-go access.
+  
+- Styled Components for Theming:
+  Replace inline styles with styled-components to improve maintainability and enable dark mode and custom themes more easily.
 
 Ps: I would be enhancing this project further in my spare to implement features I would add with more time, connecting with backend toolss and adding a login in system.
 >>>>>>> 62937ad (Task)
